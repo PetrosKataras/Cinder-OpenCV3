@@ -3,7 +3,7 @@
 #include "cinder/gl/gl.h"
 #include "cinder/ImageIo.h"
 
-#include "CinderOpenCv.h"
+#include "CinderOpenCV.h"
 
 #include "Resources.h"
 
